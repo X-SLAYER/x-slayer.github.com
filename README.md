@@ -1,2 +1,2 @@
-# x-slayer.github.com
+# x-slayer.github.io
 my web 
